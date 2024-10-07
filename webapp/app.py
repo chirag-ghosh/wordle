@@ -125,9 +125,10 @@ def load_keyboard(lang):
 
 
 def get_todays_idx():
-    n_days = (datetime.datetime.utcnow() - datetime.datetime(1970, 1, 1)).days
-    idx = n_days - 18992 + 195
-    return idx
+    # n_days = (datetime.datetime.utcnow() - datetime.datetime(1970, 1, 1)).days
+    # idx = n_days - 18992 + 195
+    # return idx
+    return random.randint(1, 10000)
 
 
 language_codes_5words = {l_code: load_words(l_code) for l_code in language_codes}
