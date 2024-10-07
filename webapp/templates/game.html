@@ -42,10 +42,8 @@
     <script>
         const word_list = JSON.parse('{{language.word_list | tojson | safe}}');
         const word_list_supplement = JSON.parse('{{language.word_list_supplement | tojson | safe}}');
-        console.log('\nFor the language: ' + '"{{language.config.name_native}}/{{language.config.name}}"' + ' there are:\n' + word_list.length + ' words in the word list\n' + word_list_supplement.length + ' words in the supplemental word list.');
         const characters = JSON.parse('{{language.characters | tojson | safe}}');
         const config = JSON.parse('{{language.config | tojson | safe}}');
-        console.log("Character Set: " + characters);
         const todays_idx = "{{ language.todays_idx }}";
         const todays_word = "{{ language.daily_word }}";
     </script>
