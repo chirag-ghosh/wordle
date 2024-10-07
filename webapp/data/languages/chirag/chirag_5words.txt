@@ -1,0 +1,6 @@
+agile
+queue
+jfrog
+scrum
+kafka
+redis
