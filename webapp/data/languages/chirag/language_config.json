@@ -1,15 +1,15 @@
 {
     "language_code": "chirag",
-    "name": "Cloud Symposium",
-    "name_native": "Cloud Symposium",
+    "name": "chirag",
+    "name_native": "chirag",
     "meta": {
         "locale": "en",
-        "title": "The cloud word game",
+        "title": "The cloud wordle word game",
         "description": "Guess the hidden word in 6 tries (or less). A new puzzle is available in each refresh!",
         "keywords": "english, puzzle, word, play, game, online, guess, daily"
     },
     "text": {
-        "subheader": "Cloud Symposium",
+        "subheader": "chirag",
         "next_word": "Next word ",
         "no_attempts": "You haven't tried any words yet! ",
         "share": "Share ",
