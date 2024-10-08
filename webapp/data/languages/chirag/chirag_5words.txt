@@ -21,4 +21,5 @@ event
 tests
 cache
 group
-
+merge
+scale
