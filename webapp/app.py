@@ -224,7 +224,7 @@ class Language:
                 if i % 10 == 0:
                     self.keyboard.append([])
                 self.keyboard[-1].append(c)
-            self.keyboard[-1].insert(0, "⇨")
+            self.keyboard[-1].insert(0, "ENTER")
             self.keyboard[-1].append("⌫")
 
             # Deal with bottom row being too crammed:
