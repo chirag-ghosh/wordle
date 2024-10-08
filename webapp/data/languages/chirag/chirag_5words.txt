@@ -1,5 +1,4 @@
 agile
-queue
 jfrog
 scrum
 kafka
@@ -8,6 +7,18 @@ sauce
 sonar
 traus
 cloud
-nexus
 azure
 topic
+build
+query
+trace
+alert
+fetch
+cycle
+react
+patch
+event
+tests
+cache
+group
+
