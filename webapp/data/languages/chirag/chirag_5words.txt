@@ -4,3 +4,10 @@ jfrog
 scrum
 kafka
 redis
+sauce
+sonar
+traus
+cloud
+nexus
+azure
+topic
